@@ -169,7 +169,9 @@ outline:0;background-color:transparent}
 
     ul.banner-social-buttons li:last-child{margin-bottom:0}}
 
-    footer{padding:50px 0}
+    footer{
+    padding:50px 0;
+    background-color: rgba(15, 15, 14, 0.88);}
 
     footer p{font-size:14px;margin:0}
 
